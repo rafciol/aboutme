@@ -52,7 +52,7 @@ Website of a publisher of books for children and young adults. \
 ### 💟🎓 [Akadamia WSB](https://wsb.edu.pl/)
 Website of the WSB University in Dąbrowa Górnicza. \
 **Stack:** Laravel, SCSS, Jquery \
-**My role:** Optimization and develop new solutions.
+**My role:** Optimization and develop new solutions, implementation of User Accesibility <b>(WCAG)</b>.
 
 ##
 
@@ -63,12 +63,19 @@ Website of a transport company in Zamość. \
 
 ##
 
+### 🏛️ [Syfon studio](https://syfonstudio.com/)
+Website design studio based in Poland \
+**Stack:** React, Next.js, TypeScript, TailwindCSS \
+**My role:** Building website from scratch, creating advanced animations.
+
+##
+
 ### 💉 Medipsyche
 Website of the Medical and Rehabilitation Center in Łódź. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
 **My role:** Building website from scratch
 
-#
+##
 
 ### 👩‍🎨 Weronika Gęsicka
 Personal brand website of Weronika Gęsicka, visual artist. \
